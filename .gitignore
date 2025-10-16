@@ -249,3 +249,6 @@ config.ini
 secrets.yaml
 .secrets
 credentials.json
+
+# Auxiliary files
+checklist.*
